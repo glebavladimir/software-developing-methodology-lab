@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStorage", "ClassStorage\ClassStorage.csproj", "{2E4E6CD3-117A-4210-86A2-08DBD5E9B349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{9F3B883A-24AB-4385-8CBD-1F3DDB94AE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmeticWPF", "CosmeticWPF\CosmeticWPF.csproj", "{0FC7910E-61D3-462E-9F18-CE6CB20CAE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4E6CD3-117A-4210-86A2-08DBD5E9B349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4E6CD3-117A-4210-86A2-08DBD5E9B349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4E6CD3-117A-4210-86A2-08DBD5E9B349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4E6CD3-117A-4210-86A2-08DBD5E9B349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3B883A-24AB-4385-8CBD-1F3DDB94AE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3B883A-24AB-4385-8CBD-1F3DDB94AE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3B883A-24AB-4385-8CBD-1F3DDB94AE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3B883A-24AB-4385-8CBD-1F3DDB94AE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC7910E-61D3-462E-9F18-CE6CB20CAE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC7910E-61D3-462E-9F18-CE6CB20CAE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC7910E-61D3-462E-9F18-CE6CB20CAE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC7910E-61D3-462E-9F18-CE6CB20CAE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D5F4D2-D823-4570-AEAE-C5DE8BC47D8C}
+	EndGlobalSection
+EndGlobal
