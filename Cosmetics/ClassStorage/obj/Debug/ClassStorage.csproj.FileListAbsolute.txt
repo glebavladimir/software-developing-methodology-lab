@@ -1,0 +1,6 @@
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\bin\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\bin\Debug\ClassStorage.pdb
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\obj\Debug\ClassStorage.csprojAssemblyReference.cache
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\obj\Debug\ClassStorage.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\obj\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\Cosmetics\ClassStorage\obj\Debug\ClassStorage.pdb

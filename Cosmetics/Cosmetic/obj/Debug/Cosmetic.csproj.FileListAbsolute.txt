@@ -1,0 +1,10 @@
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.exe.config
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\ClassStorage.pdb
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csprojAssemblyReference.cache
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csproj.CopyComplete
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.pdb
