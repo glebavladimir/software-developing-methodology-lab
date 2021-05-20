@@ -1,0 +1,34 @@
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.exe.config
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\bin\Debug\ClassStorage.pdb
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csprojAssemblyReference.cache
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.csproj.CopyComplete
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\Cosmetics\Cosmetic\obj\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\Cosmetic.exe.config
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\DAL.dll
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\ClassStorage.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\bin\Debug\DAL.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\obj\Debug\Cosmetic.csprojAssemblyReference.cache
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\obj\Debug\Cosmetic.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\obj\Debug\Cosmetic.csproj.CopyComplete
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\obj\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 2\Cosmetic\obj\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\obj\Debug\Cosmetic.csprojAssemblyReference.cache
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\obj\Debug\Cosmetic.csproj.CoreCompileInputs.cache
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\obj\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\obj\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\Cosmetic.exe.config
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\Cosmetic.exe
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\Cosmetic.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\ClassStorage.dll
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\DAL.dll
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\ClassStorage.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\bin\Debug\DAL.pdb
+D:\Users\Mike\Desktop\UML Cosmetics\Cosmetics - lab 3\Cosmetic\obj\Debug\Cosmetic.csproj.CopyComplete
